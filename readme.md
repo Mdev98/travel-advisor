@@ -1,7 +1,7 @@
 # TravelAdvisor
 
 TravelAdvisor is a Python web scraper that scrapes data on travel destinations from a travel website. It retrieves data such as destination name, image 
-gallery, and places of interest. The scraped data is then saved to a JSON file. 
+gallery, and places of interest. The scraped data is then saved to a JSON file and errors are logged using the logging library
 
 ## Dependencies
 
