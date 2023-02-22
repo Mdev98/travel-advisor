@@ -18,10 +18,10 @@ To use the scraper, first install the dependencies:
 	pip install requests beautifulsoup4
 ```
 
-Then, run the scraper using the following command:
+Then, run the script using the following command:
 
 ```
-	python scraper.py
+	python script.py
 ```
 
 
